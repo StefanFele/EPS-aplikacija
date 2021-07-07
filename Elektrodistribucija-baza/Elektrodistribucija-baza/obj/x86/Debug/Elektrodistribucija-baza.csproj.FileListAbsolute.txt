@@ -1,0 +1,56 @@
+C:\Users\Stefan\Desktop\Programiranje\Elektrodistribucija-baza\Elektrodistribucija-baza\bin\x86\Debug\Elektrodistribucija-baza.exe
+C:\Users\Stefan\Desktop\Programiranje\Elektrodistribucija-baza\Elektrodistribucija-baza\bin\x86\Debug\Elektrodistribucija-baza.pdb
+C:\Users\Stefan\Desktop\Programiranje\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Programiranje\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija_baza.Form1.resources
+C:\Users\Stefan\Desktop\Programiranje\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija_baza.Properties.Resources.resources
+C:\Users\Stefan\Desktop\Programiranje\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija-baza.csproj.GenerateResource.Cache
+C:\Users\Stefan\Desktop\Programiranje\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija-baza.exe
+C:\Users\Stefan\Desktop\Programiranje\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija-baza.pdb
+C:\Users\lmkhd\Desktop\PROJEKAT PROG\Programiranje\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija-baza.exe
+C:\Users\lmkhd\Desktop\PROJEKAT PROG\Programiranje\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija-baza.pdb
+C:\Users\lmkhd\Desktop\PROJEKAT PROG\Programiranje\Elektrodistribucija-baza\Elektrodistribucija-baza\bin\x86\Debug\Elektrodistribucija-baza.exe
+C:\Users\lmkhd\Desktop\PROJEKAT PROG\Programiranje\Elektrodistribucija-baza\Elektrodistribucija-baza\bin\x86\Debug\Elektrodistribucija-baza.pdb
+C:\Users\lmkhd\Desktop\PROJEKAT PROG\Programiranje\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lmkhd\Desktop\PROJEKAT PROG\Programiranje\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija_baza.Form1.resources
+C:\Users\lmkhd\Desktop\PROJEKAT PROG\Programiranje\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija_baza.Properties.Resources.resources
+C:\Users\lmkhd\Desktop\PROJEKAT PROG\Programiranje\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija-baza.csproj.GenerateResource.Cache
+C:\Users\Stefan\Desktop\PROJEKAT PROG1111\Programiranje\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija-baza.exe
+C:\Users\Stefan\Desktop\PROJEKAT PROG1111\Programiranje\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija-baza.pdb
+C:\Users\Stefan\Desktop\PROJEKAT PROG1111\Programiranje\Elektrodistribucija-baza\Elektrodistribucija-baza\bin\x86\Debug\Elektrodistribucija-baza.exe
+C:\Users\Stefan\Desktop\PROJEKAT PROG1111\Programiranje\Elektrodistribucija-baza\Elektrodistribucija-baza\bin\x86\Debug\Elektrodistribucija-baza.pdb
+C:\Users\Stefan\Desktop\PROJEKAT PROG1111\Programiranje\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\PROJEKAT PROG1111\Programiranje\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija_baza.Form1.resources
+C:\Users\Stefan\Desktop\PROJEKAT PROG1111\Programiranje\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija_baza.Properties.Resources.resources
+C:\Users\Stefan\Desktop\PROJEKAT PROG1111\Programiranje\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija-baza.csproj.GenerateResource.Cache
+C:\Users\Stefan\Desktop\PROJEKAT PROG1111\Programiranje\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija_baza.Potrosnja.resources
+C:\Users\lmkhd\Desktop\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija-baza.exe
+C:\Users\lmkhd\Desktop\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija-baza.pdb
+C:\Users\lmkhd\Desktop\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\bin\x86\Debug\Elektrodistribucija-baza.exe
+C:\Users\lmkhd\Desktop\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\bin\x86\Debug\Elektrodistribucija-baza.pdb
+C:\Users\lmkhd\Desktop\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lmkhd\Desktop\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija_baza.Form1.resources
+C:\Users\lmkhd\Desktop\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija_baza.Potrosnja.resources
+C:\Users\lmkhd\Desktop\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija_baza.Properties.Resources.resources
+C:\Users\lmkhd\Desktop\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija-baza.csproj.GenerateResource.Cache
+C:\Users\Stefan\Desktop\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija-baza.exe
+C:\Users\Stefan\Desktop\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija-baza.pdb
+C:\Users\Stefan\Desktop\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\bin\x86\Debug\Elektrodistribucija-baza.exe
+C:\Users\Stefan\Desktop\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\bin\x86\Debug\Elektrodistribucija-baza.pdb
+C:\Users\Stefan\Desktop\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija_baza.Form1.resources
+C:\Users\Stefan\Desktop\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija_baza.Potrosnja.resources
+C:\Users\Stefan\Desktop\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija_baza.Properties.Resources.resources
+C:\Users\Stefan\Desktop\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija-baza.csproj.GenerateResource.Cache
+C:\Users\Stefan\Desktop\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija_baza.Brisanje.resources
+H:\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija-baza.exe
+H:\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija-baza.pdb
+H:\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\bin\x86\Debug\Elektrodistribucija-baza.exe
+H:\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\bin\x86\Debug\Elektrodistribucija-baza.pdb
+H:\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija_baza.Brisanje.resources
+H:\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija_baza.Form1.resources
+H:\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija_baza.Potrosnja.resources
+H:\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija_baza.Properties.Resources.resources
+H:\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija-baza.csproj.GenerateResource.Cache
+K:\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija-baza.exe
+K:\Distribucija 2\Elektrodistribucija-baza\Elektrodistribucija-baza\obj\x86\Debug\Elektrodistribucija-baza.pdb
